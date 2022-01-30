@@ -14,7 +14,7 @@ First 3 decimals is your play amount for example first 3 decimals can be 0.100 o
 
 Between three and six decimals **333**- is means i wanna play a game.
 
-Last 1 means i think NEXT block's blockhash's decimal value is ODD.
+Last 1 (seventh decimal) means i think NEXT block's blockhash's decimal value is ODD.
 
 if you send 0.0103332 --> (2) means  i think NEXT block's blockhash's decimal value is EVEN.
 

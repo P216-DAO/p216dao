@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## P216 DAO NFT GAME
 
-You can use the [editor on GitHub](https://github.com/P216-DAO/p216dao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project working with numbers! No need web sites, interface or web3.js integration!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##How you can interact with contract?
+For example if you wanna play a #NFT game with 0.01 ETH.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Just send **0.010**-_333_-1 in other words  `0.0103331`  eth to contract.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+first 3 decimal is your play amount **333**- is means i wanna play a game.
+Last 1 means i think NEXT block's blockhash's decimal value is ODD.
+if you send 0.0103332 --> (2) means  i think NEXT block's blockhash's decimal value is EVEN .
+if your prediction is true! You earn GREEN robot and 2x -(%15).
+If your prediction is false! You earn RED robot.
+If you send 1 ethereum to contract You can buy a BLUE robot directly and all Blue Robot owners earn %10 from all winners!
+Only 100 blue ROBOT can exist.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/P216-DAO/p216dao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having question abour p216dao? Check out our [twitter page](https://twitter.com/P216DAO)  

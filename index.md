@@ -29,4 +29,4 @@ That is all, Good lucks...
 
 ### Support or Contact
 
-Having question abour p216dao? Check out our [twitter page](https://twitter.com/P216DAO)  
+Having question about P216-DAO? Check out our [twitter page](https://twitter.com/P216DAO)  

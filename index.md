@@ -3,7 +3,7 @@
 This project working with numbers! No need web sites, interface or web3.js integration!
 
 
-##How you can interact with contract?
+## How you can interact with contract?
 For example if you wanna play a #NFT game with 0.01 ETH.
 
 ```markdown

@@ -10,7 +10,9 @@ For example if you wanna play a #NFT game with 0.01 ETH.
 Just send 0.010-333-1 in other words  `0.0103331`  eth to contract.
 ```
 
-first 3 decimal is your play amount **333**- is means i wanna play a game.
+First 3 decimals is your play amount for example first 3 decimals can be 0.100 or 0.005, 0.009 or 0.900  
+
+Between three and six decimals **333**- is means i wanna play a game.
 
 Last 1 means i think NEXT block's blockhash's decimal value is ODD.
 

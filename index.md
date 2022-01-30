@@ -20,7 +20,7 @@ if your prediction is true! You will earn GREEN robot and 2x -(%15).
 
 If your prediction is false! You will earn RED robot.
 
-If you send 1 ethereum to contract You can buy a BLUE robot directly and all Blue Robot owners earn %10 from all winners!
+If you send 1 ethereum to contract, you can buy a BLUE robot directly and all Blue Robot owners earn %10 commission from all winners!
 
 Only 100 blue ROBOT can exist.
 
